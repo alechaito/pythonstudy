@@ -9,7 +9,7 @@
 * Multi Inheritance
 * Operator Overloading
 
-## Advanced Topicas
+## Advanced Topics
 
 * Iterators
 * Generators
