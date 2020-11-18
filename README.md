@@ -24,3 +24,6 @@ Let's study some topics about python programming.
 ## Simple Topics
 
 * Variables Scope
+* Map, Reduce, Filter
+* Lambdas
+* Exceptions
