@@ -1,5 +1,6 @@
 # Python Study
 
+Let's study some topics about python programming.
 
 ## Object Oriented Programming
 
@@ -19,3 +20,7 @@
 * RegEx
 * Threads
 * Sync & Assync
+
+## Simple Topics
+
+* Variables Scope
